@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://getpcsoft.wikisend.com/img_howto/0/764/thumb/bandicam_box-665x.png" alt="Program Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bandicam-logo-vectorial.svg/1280px-Bandicam-logo-vectorial.svg.png" alt="Program Logo"/>
 </div>
 
 <div align="center">
@@ -62,7 +62,7 @@ Bdcam is a short form that appears in file names and shortcuts. Bandi cam record
 A structured workflow that combines planning, capture settings, test recordings, and final review helps users produce more consistent videos across projects.
 
 <div align="center">
-  <img src="https://screencam.ru/img/fraps-ili-bandicam-4.jpg" alt="https://screencam.ru/img/fraps-ili-bandicam-4.jpg"/>
+  <img src="https://skillbox.ru/upload/setka_images/10131910092024_b96f49b701f581862428f9c58e1a46c731d0aa89.jpg" alt="Bandicam Screenshot"/>
 </div>
 
 ---
