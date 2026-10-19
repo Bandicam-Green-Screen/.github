@@ -62,7 +62,7 @@ Bdcam is a short form that appears in file names and shortcuts. Bandi cam record
 A structured workflow that combines planning, capture settings, test recordings, and final review helps users produce more consistent videos across projects.
 
 <div align="center">
-  <img src="SCREENSHOT_PLACEHOLDER.png" alt="Bandicam Screenshot"/>
+  <img src="https://screencam.ru/img/fraps-ili-bandicam-4.jpg" alt="Bandicam Screenshot"/>
 </div>
 
 ---
